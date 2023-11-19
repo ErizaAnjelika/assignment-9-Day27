@@ -1,0 +1,31 @@
+.contact {
+  margin-top: 100px;
+}
+.title-header h1 {
+  color: #000;
+  font-family: 'Poppins';
+  font-size: 36px;
+  font-weight: 600;
+}
+.title-header p {
+  color: #9f9f9f;
+  text-align: center;
+  font-family: 'Poppins';
+  font-size: 20px;
+  font-weight: 400;
+}
+.button-submit {
+  background: transparent;
+  width: 237px;
+  height: 55px;
+  border-radius: 5px;
+  border: 1px solid #b88e2f;
+  color: #b88e2f;
+  font-family: 'Poppins';
+  font-size: 16px;
+  font-weight: 400;
+}
+.button-submit:hover {
+  background: #b88e2f;
+  color: white;
+}
